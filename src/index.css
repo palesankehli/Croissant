@@ -5,6 +5,10 @@
   --alternative-colour: #8a1253;
 }
 
+body {
+  background-color: var(--secondary-colour);
+}
+
 .btn-prefer {
   background-color: var(--button-colour);
   color: var(--secondary-colour);
